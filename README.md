@@ -9,7 +9,7 @@ Java game using Random and scanner classes for interactive letter guessing.
 - Random letter generation
 - Allows 3 seconds before entering a guess.
 - Clues of correct and incorrect guess feedback
-- Displays number of attempts & the correct letter, if won.
+- Displays number of attempts & the correct letter, upon completion.
 
   ## Tools Used:
 
