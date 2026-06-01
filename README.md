@@ -22,3 +22,8 @@ Java game using Random and scanner classes for interactive letter guessing.
 - Open the project in IntelliJ IDEA
 - Run the main java file
 - Enter the letter guesses in the console.
+
+
+## Screenshot
+
+![Screenshot](GuessingGame.png)
