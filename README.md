@@ -2,7 +2,8 @@
 
 ## Overview
 
-Java game using Random and scanner classes for interactive letter guessing.
+Java-based console game using Random and scanner classes for interactive letter guessing. 
+
 
 ## Features 
 
